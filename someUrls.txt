@@ -1,0 +1,19 @@
+ Some imp Urls:
+	 
+	 1. Puppeteer Example Link :   https://github.com/smooth-code/jest-puppeteer
+	 2. Ajax and Json Call in React : https://binarapps.com/blog/test-ajax-calls-in-react-component-lifecycle
+	 3. Chai in React Testing : http://www.chaijs.com/api/bdd/
+	 4. Jest in React Testing : https://jestjs.io/docs/en/getting-started.html
+	 5. Webconfig.js in React : https://medium.com/@BMatt92656920/building-a-crud-application-with-react-webpack-bootstrap-2d80c45d5164
+	 6. Shallow Testing types in React Testing : https://github.com/airbnb/enzyme/tree/master/docs/api
+	 7. Chai Enzyme : https://github.com/producthunt/chai-enzyme#installation
+	 8. React Components Testing responceJson : https://gist.github.com/alfonsomunozpomer/de992a9710724eb248be3842029801c8
+	 9. Best Practice React Testing : https://reflect.io/blog/js-testing-mocha-chai-enzyme/
+	 10. Bootstrap Automatic Generator Buttons and Input : https://bootsnipp.com/buttons
+	 11. Dyson Server :https://github.com/webpro/dyson
+	 12.Puppeteer Example : https://github.com/checkly/puppeteer-examples#1-basics
+	 13. Puppeteer Editor : https://puppeteersandbox.com/
+	 14. Puppeteer screenshot Google Example : https://github.com/GoogleChrome/puppeteer
+	 15.Jest-Puppeteer Example : https://github.com/smooth-code/jest-puppeteer
+	 16. Puppeteer and moch Example : https://medium.com/@dpark/ui-testing-with-puppeteer-and-mocha-8a5c6feb3407
+	 17. Jest React Testing tutorial: https://jestjs.io/docs/en/testing-frameworks.html
