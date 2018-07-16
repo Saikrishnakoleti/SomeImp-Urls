@@ -1,7 +1,7 @@
  Some imp Urls:
 	 
 	 1. Puppeteer Example Link :   https://github.com/smooth-code/jest-puppeteer
-	 2. Ajax and Json Call in React : https://binarapps.com/blog/test-ajax-calls-in-react-component-lifecycle
+	 2. Ajax and Json Call in React testing : https://binarapps.com/blog/test-ajax-calls-in-react-component-lifecycle
 	 3. Chai in React Testing : http://www.chaijs.com/api/bdd/
 	 4. Jest in React Testing : https://jestjs.io/docs/en/getting-started.html
 	 5. Webconfig.js in React : https://medium.com/@BMatt92656920/building-a-crud-application-with-react-webpack-bootstrap-2d80c45d5164
@@ -17,3 +17,5 @@
 	 15.Jest-Puppeteer Example : https://github.com/smooth-code/jest-puppeteer
 	 16. Puppeteer and moch Example : https://medium.com/@dpark/ui-testing-with-puppeteer-and-mocha-8a5c6feb3407
 	 17. Jest React Testing tutorial: https://jestjs.io/docs/en/testing-frameworks.html
+	 18.React CheckBoxes:http://react.tips/checkboxes-in-react/
+	 19.Axiox Requests:https://alligator.io/react/axios-react/
